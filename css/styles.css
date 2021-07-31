@@ -1,0 +1,29 @@
+.navbar-brand p{
+  font-weight: bold;
+  font-size: 1.2em; 
+  color: black;
+  opacity: .8;
+}
+p{
+  font-size: 2em;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.container section{
+  height: 1000px
+  color: grey;
+}
+.container-fluid div{
+  height: 1000px;
+  background-color: grey;
+  margin: 15px;
+}
+.visible-xs p{
+  font-size: 130%;
+  font-weight: bold;
+  text-align: center;
+  border: 5px;
+}
+
+
